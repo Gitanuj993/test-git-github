@@ -1,0 +1,20 @@
+Welcome AT !
+
+In this repo you will see the questions and answers related to git and git-hub
+
+difference between git and github 
+
+First of all we will discuss about what is git , 
+git is nothing but a version control system which trackes our files and incopperates with various storage or code storage provideres like famous github which is owned by microsoft.inc 
+git is console based or terminal based software which doesn't provide any graphical user interface according to me
+List of alternate plateforms for git 
+
+1.
+2.
+3.
+
+Then now will talk about gitub , github works as plateform to store your work in the form of repositories  and provides GUI Graphical User Interface.
+as we know github is owned by microsoft inc , github comes in free tier and enterprise level tier.
+
+
+#a pdf consisting git commands will be added soon

@@ -1,0 +1,11 @@
+Welcome AT
+
+submodule means a repo (say repo A ) inside already exist repo ( say B ) ,
+as a reference, 
+
+by using sumodules A we can reuse its code into main repo B, 
+in which both repo is indipendent and submodule is used as library amd reference or as pointer,
+
+main repo can fetch commit ID from the pointer repo,
+
+if any changes made to submodule repo and commited , the same submodule should be stagges , commit and pushed from main repo is required.
