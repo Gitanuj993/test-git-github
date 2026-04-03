@@ -18,3 +18,17 @@ as we know github is owned by microsoft inc , github comes in free tier and ente
 
 
 #a pdf consisting git commands will be added soon
+Question : I moved files from one folder to another or 
+renamed folder f1 to f2 , thus while doing >> git status , git shows that files from f1 is delted , every time , as i already
+pushed the code to remote repo git suggested to add/rm 
+
+answer  : Files in f1 are still considered deleted but not staged
+Git is basically nagging:
+“Hey genius, you moved stuff but didn’t properly record the deletions”
+using >> git add -A 
+and then commit then pushed 
+
+
+
+
+
